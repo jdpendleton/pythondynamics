@@ -131,26 +131,26 @@
   And here is the "hello world" for our python application. If you followed each step correctly you should recieve an output similar to the one below:
 
   `Access token retrieved`
-  
-  |      | `@odata.etag` | `fullname`             | `contactid`                            |
-  | ---- | ------------- | ---------------------- | -------------------------------------- |
-  | `0`  | `W/"2483896"` | `Portal Customer`      | `99db51a2-c34e-e111-bb8d-00155d03a715` |
-  | `1`  | `W/"2483902"` | `System Administrator` | `7469fd95-c0bd-4236-90bf-1d1100291df5` |
-  | `2`  | `W/"2475509"` | `Vincent Lauriant`     | `465b158c-541c-e511-80d3-3863bb347ba8` |
-  | `3`  | `W/"2475516"` | `Adrian Dumitrascu`    | `49a0e5b9-88df-e311-b8e5-6c3be5a8b200` |
-  | `4`  | `W/"2475523"` | `Cathan Cook`          | `4ba0e5b9-88df-e311-b8e5-6c3be5a8b200` |
-  | `5`  | `W/"2475531"` | `Brian LaMee`          | `4da0e5b9-88df-e311-b8e5-6c3be5a8b200` |
-  | `6`  | `W/"2475540"` | `Walter Harp`          | `4fa0e5b9-88df-e311-b8e5-6c3be5a8b200` |
-  | `7`  | `W/"2475547"` | `Cat Francis`          | `51a0e5b9-88df-e311-b8e5-6c3be5a8b200` |
-  | `8`  | `W/"2475555"` | `Forrest Chand`        | `53a0e5b9-88df-e311-b8e5-6c3be5a8b200` |
-  | `9`  | `W/"2475562"` | `Eva Corets`           | `55a0e5b9-88df-e311-b8e5-6c3be5a8b200` |
-  | `10` | `W/"2475569"` | `Gabriele Cannata`     | `57a0e5b9-88df-e311-b8e5-6c3be5a8b200` |
-  | `11` | `W/"2475577"` | `George Sullivan`      | `59a0e5b9-88df-e311-b8e5-6c3be5a8b200` |
-  | `12` | `W/"2475584"` | `Tamer Salah`          | `5ba0e5b9-88df-e311-b8e5-6c3be5a8b200` |
-  | `13` | `W/"2475591"` | `Andrew Dixon`         | `5da0e5b9-88df-e311-b8e5-6c3be5a8b200` |
-  | `14` | `W/"2475598"` | `Patrick Steiner`      | `5fa0e5b9-88df-e311-b8e5-6c3be5a8b200` |
-  | `15` | `W/"2475605"` | `Susan Burk`           | `61a0e5b9-88df-e311-b8e5-6c3be5a8b200` |
-  | `16` | `W/"2475613"` | `Alex Wu`              | `63a0e5b9-88df-e311-b8e5-6c3be5a8b200` |
-  | `17` | `W/"2475620"` | `Yvonne McKay`         | `65a0e5b9-88df-e311-b8e5-6c3be5a8b200` |
-  | `18` | `W/"2475627"` | `Darren Parker`        | `69a0e5b9-88df-e311-b8e5-6c3be5a8b200` |
-  | `19` | `W/"2475634"` | `Allison Brown`        | `6da0e5b9-88df-e311-b8e5-6c3be5a8b200` |
+
+  |     | @odata.etag | fullname             | contactid                            |
+  | --- | ----------- | -------------------- | ------------------------------------ |
+  | 0   | W/"2483896" | Portal Customer      | 99db51a2-c34e-e111-bb8d-00155d03a715 |
+  | 1   | W/"2483902" | System Administrator | 7469fd95-c0bd-4236-90bf-1d1100291df5 |
+  | 2   | W/"2475509" | Vincent Lauriant     | 465b158c-541c-e511-80d3-3863bb347ba8 |
+  | 3   | W/"2475516" | Adrian Dumitrascu    | 49a0e5b9-88df-e311-b8e5-6c3be5a8b200 |
+  | 4   | W/"2475523" | Cathan Cook          | 4ba0e5b9-88df-e311-b8e5-6c3be5a8b200 |
+  | 5   | W/"2475531" | Brian LaMee          | 4da0e5b9-88df-e311-b8e5-6c3be5a8b200 |
+  | 6   | W/"2475540" | Walter Harp          | 4fa0e5b9-88df-e311-b8e5-6c3be5a8b200 |
+  | 7   | W/"2475547" | Cat Francis          | 51a0e5b9-88df-e311-b8e5-6c3be5a8b200 |
+  | 8   | W/"2475555" | Forrest Chand        | 53a0e5b9-88df-e311-b8e5-6c3be5a8b200 |
+  | 9   | W/"2475562" | Eva Corets           | 55a0e5b9-88df-e311-b8e5-6c3be5a8b200 |
+  | 10  | W/"2475569" | Gabriele Cannata     | 57a0e5b9-88df-e311-b8e5-6c3be5a8b200 |
+  | 11  | W/"2475577" | George Sullivan      | 59a0e5b9-88df-e311-b8e5-6c3be5a8b200 |
+  | 12  | W/"2475584" | Tamer Salah          | 5ba0e5b9-88df-e311-b8e5-6c3be5a8b200 |
+  | 13  | W/"2475591" | Andrew Dixon         | 5da0e5b9-88df-e311-b8e5-6c3be5a8b200 |
+  | 14  | W/"2475598" | Patrick Steiner      | 5fa0e5b9-88df-e311-b8e5-6c3be5a8b200 |
+  | 15  | W/"2475605" | Susan Burk           | 61a0e5b9-88df-e311-b8e5-6c3be5a8b200 |
+  | 16  | W/"2475613" | Alex Wu              | 63a0e5b9-88df-e311-b8e5-6c3be5a8b200 |
+  | 17  | W/"2475620" | Yvonne McKay         | 65a0e5b9-88df-e311-b8e5-6c3be5a8b200 |
+  | 18  | W/"2475627" | Darren Parker        | 69a0e5b9-88df-e311-b8e5-6c3be5a8b200 |
+  | 19  | W/"2475634" | Allison Brown        | 6da0e5b9-88df-e311-b8e5-6c3be5a8b200 |

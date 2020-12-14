@@ -61,4 +61,4 @@
 
 ## Using Python
 
-- Refer to test.py and [brownbag.ipynb](brownbag.ipynb)
+- Refer to [test.py](test.py) and [brownbag.ipynb](brownbag.ipynb)
